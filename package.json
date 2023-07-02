@@ -1,15 +1,15 @@
 {
-  "name": "portfolio",
+  "name": "essager",
   "version": "2.0.0",
   "description": "",
   "homepage": "https://KirpaOleg.github.io/portfolio",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /portfolio/"
+    "build": "parcel build src/*.html --public-url /essager/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KirpaOleg/portfolio.git"
+    "url": "git+https://github.com/KirpaOleg/essager.git"
   },
   "keywords": [],
   "author": "Kirpa Oleg <profix.ok@gmail.com>",
